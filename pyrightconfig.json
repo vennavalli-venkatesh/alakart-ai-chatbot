@@ -1,0 +1,8 @@
+{
+  "venvPath": "c:/Users/Vennavalli/OneDrive/Desktop/alakart_ai_chatbot",
+  "venv": ".venv",
+  "extraPaths": [
+    "c:/Users/Vennavalli/OneDrive/Desktop/alakart_ai_chatbot/.venv/Lib/site-packages",
+    "./.venv/Lib/site-packages"
+  ]
+}
